@@ -3,6 +3,8 @@
 ## Built with Python - Reinforcement Learning
 Program running: https://youtu.be/yrsim6fi8xk
 
+AI that teaches itself to play Nim through reinforcement learning
+
 ## How to run (example)
 
 ```
@@ -26,4 +28,3 @@ AI chose to take 1 from pile 2.
 
 ```
 
-AI that teaches itself to play Nim through reinforcement learning
